@@ -28,3 +28,27 @@ Le jeu propose une variété d'animaux en plastique avec des formes et des coule
 - Lancer des balles dans le jeu encourage la motricité globale, en particulier la coordination des membres supérieurs et inférieurs, renforçant ainsi les compétences en lançant et en visant.
 
 - Utiliser un sèche-cheveux pour chauffer le plastique et éliminer les bosses renforce la coordination main-œil, la dextérité des doigts et la concentration de l'enfant.
+
+## Un moodboard visuel 
+![alt text](assets/visuel/3-4-pieces-diy-assembly-dinosaur-tool-toy-with-screw-driver-take-original-imagbhsfuchpwyza.webp)
+![alt text](assets/visuel/5-2pc-diy-assembly-dinosaur-building-with-screw-driver-take-original-imaggbfhpsuvzcdu.webp)
+![alt text](assets/visuel/wobbledogs.webp)
+![alt text](assets/visuel/littlest-pet-shop_4.jpg)
+![alt text](assets/visuel/51SlEEmkZIL.jpg)
+
+## Un moodboard visuel 
+
+[mao](https://github.com/Jasmine-Lapierre/VR_projet_final/blob/main/assets/sons/Mio%20mao%20~%20sped%20up🫰🏻.mp3?raw=true)
+
+[Chrysalis](https://github.com/Jasmine-Lapierre/VR_projet_final/blob/main/assets/sons/%5BWobbledogs%20OST%5D%201%20-%20Chrysalis.mp3?raw=true)
+
+[angry birds 1](https://github.com/Jasmine-Lapierre/VR_projet_final/blob/main/assets/sons/Angry%20Birds%202-%20All%20King%20Pig%20Sounds.mp3?raw=true)
+
+[angry birds 2](https://github.com/Jasmine-Lapierre/VR_projet_final/blob/main/assets/sons/Angry%20Birds%202-%20All%20Bubbles%20Bird%20Sounds.mp3?raw=true)
+
+
+## Une carte de votre environnement virtuel 
+![alt text](assets/carte.drawio.png)
+
+## Un schéma de programmation ou d'interactivité
+![alt text](assets/schema.drawio.png)
